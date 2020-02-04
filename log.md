@@ -29,3 +29,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+
+### Day 1: February 04, Wednesday
+
+**Today's Progress**: I learned about Flexbox in detail, read an article about "The Different Kinds of CSS Layout" on css-tricks 
