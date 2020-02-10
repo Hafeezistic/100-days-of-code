@@ -30,6 +30,6 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 1: February 04, Wednesday
+### Day 1: February 10, Monday
 
-**Today's Progress**: I learned about Flexbox in detail, read an article about "The Different Kinds of CSS Layout" on css-tricks 
+**Today's Progress**: I Completed FreeCodeCamp's Portfolio project today   
